@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/observerassignment.iml" filepath="$PROJECT_DIR$/observerassignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/origin/origin.iml" filepath="$PROJECT_DIR$/origin/origin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleFactory/simpleFactory.iml" filepath="$PROJECT_DIR$/simpleFactory/simpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticFactory/staticFactory.iml" filepath="$PROJECT_DIR$/staticFactory/staticFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task1/task1.iml" filepath="$PROJECT_DIR$/task1/task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task2/task2.iml" filepath="$PROJECT_DIR$/task2/task2.iml" />
+    </modules>
+  </component>
+</project>
